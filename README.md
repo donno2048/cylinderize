@@ -20,6 +20,8 @@ pip3 install git+https://github.com/donno2048/cylinderize
 
 Run `cylinderize <file>` to show the text of the file as a cylinder
 
+Use `cylinderize` to choose a file using a prompt
+
 Or in a script:
 
 ```py
